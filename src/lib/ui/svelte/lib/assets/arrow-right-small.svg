@@ -1,15 +1,1 @@
-<svg
-  width="16"
-  height="16"
-  viewBox="0 0 16 16"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-<rect x="3" y="7" width="10" height="1" fill="#FF603B" />
-<rect x="11" y="6" width="1" height="1" fill="#FF603B" />
-<rect x="10" y="5" width="1" height="1" fill="#FF603B" />
-<rect x="9" y="4" width="1" height="1" fill="#FF603B" />
-<rect x="10" y="9" width="1" height="1" fill="#FF603B" />
-<rect x="9" y="10" width="1" height="1" fill="#FF603B" />
-<rect x="11" y="8" width="1" height="1" fill="#FF603B" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16"><rect width="10" height="1" x="3" y="7" fill="#FF603B"/><rect width="1" height="1" x="11" y="6" fill="#FF603B"/><rect width="1" height="1" x="10" y="5" fill="#FF603B"/><rect width="1" height="1" x="9" y="4" fill="#FF603B"/><rect width="1" height="1" x="10" y="9" fill="#FF603B"/><rect width="1" height="1" x="9" y="10" fill="#FF603B"/><rect width="1" height="1" x="11" y="8" fill="#FF603B"/></svg>
